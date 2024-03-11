@@ -1,0 +1,18 @@
+{
+  "name": "FigmaExportToJSON",
+  "id": "1347567396054488888",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "documentAccess": "dynamic-page",
+  "ui": "ui.html"
+}
